@@ -21,3 +21,16 @@ Consigli
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
 Buon lavoro e buon weekend! :laptop_parrot:
+
+
+<!-- ! scaletta -->
+
+1 Recupero elemento HTML
+2 Dichiaro la variabile nome
+2b chiedo il nome all'utente
+3 dichiaro la variabile cognome
+3b chiedo il cognome
+4 dichiaro la variabile colore preferito
+4b chiedo il colore preferito
+5 dichiaro la variabile fissa 23
+6 stampo nell'elemento html nome+cognome+colore+23
