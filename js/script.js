@@ -12,5 +12,10 @@ console.log(firstName)
 
 // ! chiedo il cognome
 
-const lastName = prompt("Quale è il tuo cognome?")
+const lastName = prompt("Il tuo cognome?")
 console.log(lastName)
+
+// ! chiedo il colore preferito
+
+const favouriteColor = prompt("Il tuo colore perferito?")
+console.log(favouriteColor)
