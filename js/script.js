@@ -9,3 +9,8 @@ console.log(elemento)
 
 const firstName = prompt("Come ti chiami?")
 console.log(firstName)
+
+// ! chiedo il cognome
+
+const lastName = prompt("Quale è il tuo cognome?")
+console.log(lastName)
