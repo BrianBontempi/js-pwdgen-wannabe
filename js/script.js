@@ -24,3 +24,8 @@ console.log(favouriteColor)
 
 const number = "23"
 console.log(number)
+
+// ! assemblo la password
+
+const password = `${firstName}${lastName}${favouriteColor}${number}`
+console.log(password)
