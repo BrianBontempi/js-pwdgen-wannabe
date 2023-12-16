@@ -2,7 +2,7 @@ console.log("JS OK")
 
 // ! recupero elemento html
 
-const elemento = document.getElementById("password")
+const elemento = document.getElementById("psw")
 console.log(elemento)
 
 // ! chiedo il nome
@@ -19,3 +19,8 @@ console.log(lastName)
 
 const favouriteColor = prompt("Il tuo colore perferito?")
 console.log(favouriteColor)
+
+// ! creo la variabile fissa 23
+
+const number = "23"
+console.log(number)
