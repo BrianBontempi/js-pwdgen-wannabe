@@ -29,3 +29,7 @@ console.log(number)
 
 const password = `${firstName}${lastName}${favouriteColor}${number}`
 console.log(password)
+
+// ! inserisco il messaggio
+
+elemento.innerText = password
